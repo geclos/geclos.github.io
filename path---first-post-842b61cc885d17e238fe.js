@@ -1,2 +1,0 @@
-webpackJsonp([98749194253172],{508:function(t,s){t.exports={data:{site:{siteMetadata:{title:"Gerard Clos - blog",author:"Gerard Clos"}},markdownRemark:{id:"/Users/geclos/Documents/personal/blog/src/pages/first-post/index.md absPath of file >>> MarkdownRemark",html:"<p>This is my first post.</p>",frontmatter:{title:"First post",date:"July 30, 2018"}}},pathContext:{slug:"/first-post/",previous:null,next:null}}}});
-//# sourceMappingURL=path---first-post-842b61cc885d17e238fe.js.map
